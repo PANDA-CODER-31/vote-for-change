@@ -10,7 +10,7 @@
     <img style="height:200px;;width:500px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXY2WGsFfbtqG9Qw0I9JCfCMA7CK2d7vZgWw&usqp=CAU">
     <img style="height:150px;;width:300px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRewjECSUQrDcyz4-rZi6atJqU1tJrCmNoL7A&usqp=CAU">
 </body>
-<form action="a.php">
+<form action="index.php">
     <h1>
         Press Back to return home page
     </h1>
