@@ -11,7 +11,7 @@ In this project we solved the problem of less voting percentage in elections wit
   <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
   
 ## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1NEbqpM6J6UkmHN_J6NsgOhKvDU6fkfnli4OIg1lh-pk/edit?usp=sharing"> ppt link here </a>
+  <a href="https://docs.google.com/presentation/d/1zQ_8MNt_5oxwIj40vvkszLW2BvIPRE3h00ZXUoEpq50/edit?usp=sharing"> ppt link here </a>
 
 
 
