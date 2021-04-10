@@ -79,7 +79,7 @@
                 <fieldset id="b1" class="city">
                     <h1 style="font-family:cursive">Login Credentials</h1>
                     <br><br><label for="name">NAME :</label>
-                    <input class="cls" type="text" id="name" name="name" required><br><br>
+                    <input class="cls" type="text" id="name" name="fname" required><br><br>
                     <label for="voterid">VOTER ID :</label>
                     <input class="cls" type="text" id="voterid" name="username" required><br><br>
                     <label for="password">PASSWORD:(Date of Birth)</label>
