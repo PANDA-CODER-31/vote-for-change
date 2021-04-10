@@ -6,8 +6,7 @@
 
 
 ## Introduction:
-  Intro of the project
-  
+In this project we solved the problem of less voting percentage in elections with implementation of online voting.  
 ## Demo Video Link:
   <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
   
