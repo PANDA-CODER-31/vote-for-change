@@ -13,7 +13,7 @@ Voting through online medium is one of the proposed solutions, where user can su
 The voting rate of INDIA is very low since people can’t travel to their hometowns to cast their vote. Our E-ADMINISTRATION prototype will be a permanent solution to this problem. Taking account of the diversity of languages used in INDIA we have enabled an option to switch between languages which is convenient to the user. 
 
 ## Demo Video Link:
-  <a href="https://youtu.be/XxqXmbxUeGE"Video</a>
+  <a href="https://youtu.be/XxqXmbxUeGE"> Video</a>
   
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/1zQ_8MNt_5oxwIj40vvkszLW2BvIPRE3h00ZXUoEpq50/edit?usp=sharing"> ppt link here </a>
